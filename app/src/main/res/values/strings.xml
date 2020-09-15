@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WtoScreensIntent</string>
+    <string name="btnTxtAbout">about</string>
+    <string name="about_text">
+    У лукоморья дуб зелёный;\n
+    Златая цепь на дубе том:\n
+    И днём и ночью <b>кот учёный</b>\n
+    Всё ходит по цепи кругом;\n
+    Идёт <b>направо</b> - песнь заводит,\n
+    <b>Налево</b> - сказку говорит.</string>
+    <string name="BirthDay">when your BirthDay?</string>
+    <string name="to">кому</string>
+    <string name="Description">Button</string>
+    <string name="descr">Описание</string>
+</resources>
