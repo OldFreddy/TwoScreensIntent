@@ -14,8 +14,9 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, AboutActivity::class.java)
 
 
-            intent.putExtra("username", nameText.text.toString())
-            intent.putExtra("gift", descriptionText.text.toString())
+            intent.putExtra(nameKey, nameText.text.toString())
+            intent.putExtra(descriptionKEy, descriptionText.text.toString())
+            intent.putExtra(fromKey, fromText.text.toString())
             startActivity(intent)
 
         }

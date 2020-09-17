@@ -12,4 +12,5 @@
     <string name="to">кому</string>
     <string name="Description">Button</string>
     <string name="descr">Описание</string>
+    <string name="from">from</string>
 </resources>
